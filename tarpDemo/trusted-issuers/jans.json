@@ -2,7 +2,7 @@
     "id": "1985d6d8767b87d752035c9f9c0078daf057ad2cd5ea",
     "name": "Jans",
     "description": "",
-    "configuration_endpoint": "https://test-jans.gluu.info/.well-known/openid-configuration",
+    "configuration_endpoint": "https://mosip-demo.gluu.info/.well-known/openid-configuration",
     "token_metadata": {
         "access_token": {
             "trusted": true,
